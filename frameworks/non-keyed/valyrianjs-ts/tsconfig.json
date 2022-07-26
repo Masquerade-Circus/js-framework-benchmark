@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "esNEXT",
+    "module": "esNEXT",
+    "strict": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "inlineSourceMap": true,
+    "allowJs": false,
+    "resolveJsonModule": true,
+    "removeComments": true
+  },
+  "include": ["./src", "./node_modules"]
+}

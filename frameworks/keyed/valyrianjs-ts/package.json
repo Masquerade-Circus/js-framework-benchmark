@@ -1,0 +1,31 @@
+{
+  "name": "js-framework-benchmark-valyrianjs",
+  "version": "3.3.0",
+  "description": "Valyrian.js Ts Lite",
+  "main": "index.js",
+  "js-framework-benchmark": {
+    "frameworkVersion": "3.3.0"
+  },
+  "scripts": {
+    "build-dev": "cross-env NODE_ENV=development nodemon -w ./src build.js",
+    "build-prod": "cross-env NODE_ENV=production node build.js"
+  },
+  "keywords": [
+    "valyrianjs",
+    "valyrian.js",
+    "valyrian",
+    "rollup"
+  ],
+  "author": "Stefan Krause",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/krausest/js-framework-benchmark",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krausest/js-framework-benchmark.git"
+  },
+  "devDependencies": {
+    "cross-env": "^6.0.3",
+    "nodemon": "^2.0.7",
+    "valyrian.js": "^5.0.16"
+  }
+}
