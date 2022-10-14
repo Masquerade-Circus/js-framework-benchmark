@@ -24,6 +24,6 @@
   "dependencies": {
     "marionette": "5.0.0-alpha.2",
     "morphdom": "2.6.1",
-    "underscore": "1.11.0"
+    "underscore": "1.12.1"
   }
 }
