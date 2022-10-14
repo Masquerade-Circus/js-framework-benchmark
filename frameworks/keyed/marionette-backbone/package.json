@@ -27,6 +27,6 @@
   "dependencies": {
     "backbone": "1.4.0",
     "marionette": "5.0.0-alpha.2",
-    "underscore": "1.11.0"
+    "underscore": "1.12.1"
   }
 }
