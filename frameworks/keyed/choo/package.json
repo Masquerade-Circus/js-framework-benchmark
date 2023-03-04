@@ -21,7 +21,7 @@
     "cross-env": "5.2.0",
     "envify": "4.1.0",
     "es2020": "1.1.9",
-    "mkdirp": "0.5.1",
+    "mkdirp": "0.5.6",
     "rimraf": "2.6.2",
     "uglify-js": "3.4.6",
     "uglifyify": "5.0.1",
